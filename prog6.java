@@ -6,4 +6,9 @@ Class MyClass
 	}
 }
 
+Class test
+{
+ example(){
+ }
+}
 
